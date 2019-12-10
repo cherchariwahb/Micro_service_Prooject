@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.example.blaq.BlaqApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.819 s <<< FAILURE! - in com.example.blaq.BlaqApplicationTests
+contextLoads  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: 
+Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'rateController' method 
+com.example.blaq.controller.RateController#deleteRate(Long, Long)
+to {DELETE /projet/posts/{postId}/comments/{commentId}}: There is already 'commentController' bean method
+com.example.blaq.controller.CommentController#deleteComment(Long, Long) mapped.
+Caused by: java.lang.IllegalStateException: 
+Ambiguous mapping. Cannot map 'rateController' method 
+com.example.blaq.controller.RateController#deleteRate(Long, Long)
+to {DELETE /projet/posts/{postId}/comments/{commentId}}: There is already 'commentController' bean method
+com.example.blaq.controller.CommentController#deleteComment(Long, Long) mapped.
+
