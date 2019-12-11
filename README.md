@@ -2,6 +2,16 @@
 ## Conception Project : 
 ### Our Class Diagram : 
 
+### User Management (`Islem Work`):
+![GitHub Logo](conception/Class_Islem.PNG)
+
+### Equipment Management (`Yesser Work`):
+![GitHub Logo](conception/Class_yesser.PNG)
+
+### Equipment Management (`Wahb Work`):
+![GitHub Logo](conception/DiagramClass.PNG)
+[Contribution guidelines for this project](conception/)
+
 ## Configuration envirement :
 ### Clone the project :
 ```console
