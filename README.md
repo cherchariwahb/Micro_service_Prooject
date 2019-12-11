@@ -20,11 +20,23 @@
 
 
 ## Configuration envirement :
-### Clone the project :
+### 1st STEP : Clone the project :
 ```console
 git clone https://github.com/cherchariwahb/Micro_service_Prooject.git
 ```
+### 2nd STEP :`Don't forget : Maven Update`
+### 3rd STEP : 
+#### Run blaq project (WAHB Work)
 
+#### Run yesser_copie project (YESSER Work)
+
+#### Run islem project (ISLEM Work)
+
+#### Run mouna project (MOUNA Work)
+
+#### Run Eureka project (GROUP Work)
+
+#### Run Zuul project (GROUP Work)
 
 
 # You Find here :
