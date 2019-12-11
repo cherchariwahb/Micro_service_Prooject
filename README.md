@@ -11,6 +11,9 @@
 ### Product Management (`Wahb Work`):
 ![GitHub Logo](conception/DiagramClass.PNG)
 
+### Product Management (`Mouna Work`):
+![GitHub Logo](conception/mouna.PNG)
+
 ### Our Use Case Diagram : 
 
 ### User Management (`Islem Work`):
@@ -42,8 +45,11 @@ Make sur you run project on `--server.port=8762`
 ![GitHub Logo](conception/eureka.PNG)
 
 ## Testing Project : `using postman`
-### 
-
+### Get all products 
+```console
+http://localhost:8080/projet/categories/1/produits/
+```
+![GitHub Logo](conception/ProductsGet.PNG)
 
 
 
