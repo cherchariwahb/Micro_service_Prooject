@@ -41,7 +41,7 @@ Make sur you run project on `--server.port=8081`
 Make sur you run project on `--server.port=8083`
 #### Run Zuul project (GROUP Work)
 Make sur you run project on `--server.port=8762`
-### Result Like this (^_^)
+### You find a result Like this (^_^)
 ![GitHub Logo](conception/eureka.PNG)
 
 ## Testing Project : `using postman`
