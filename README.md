@@ -8,9 +8,16 @@
 ### Equipment Management (`Yesser Work`):
 ![GitHub Logo](conception/Class_yesser.PNG)
 
-### Equipment Management (`Wahb Work`):
+### Product Management (`Wahb Work`):
 ![GitHub Logo](conception/DiagramClass.PNG)
-[Contribution guidelines for this project](conception/)
+
+### Our Use Case Diagram : 
+
+### User Management (`Islem Work`):
+![GitHub Logo](conception/islem1.PNG)
+
+### You can find all of diagrams [HERE](conception/)
+
 
 ## Configuration envirement :
 ### Clone the project :
