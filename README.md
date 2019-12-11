@@ -1,5 +1,5 @@
 # Agriculture Project
-## Conception Project : 
+## Conception of  Project : 
 ### Our Class Diagram : 
 
 ### User Management (`Islem Work`):
@@ -26,29 +26,25 @@ git clone https://github.com/cherchariwahb/Micro_service_Prooject.git
 ```
 ### 2nd STEP :`Don't forget : Maven Update`
 ### 3rd STEP : 
-#### Run blaq project (WAHB Work)
-
-#### Run yesser_copie project (YESSER Work)
-
-#### Run islem project (ISLEM Work)
-
-#### Run mouna project (MOUNA Work)
-
 #### Run Eureka project (GROUP Work)
-
+Make sur you run project on `--server.port=8761`
+#### Run blaq project (WAHB Work)
+Make sur you run project on `--server.port=8080`
+#### Run yesser_copie project (YESSER Work)
+Make sur you run project on `--server.port=8082`
+#### Run islem project (ISLEM Work)
+Make sur you run project on `--server.port=8081`
+#### Run mouna project (MOUNA Work)
+Make sur you run project on `--server.port=8083`
 #### Run Zuul project (GROUP Work)
+Make sur you run project on `--server.port=8762`
+### Result Like this (^_^)
+![GitHub Logo](conception/eureka.PNG)
+
+## Testing Project : `using postman`
+### 
 
 
-# You Find here :
 
-
-## What Is Netflix Eureka?
-This is a tool provided by Netflix to provide a solution to the above problem. It consists of the Eureka Server and Eureka clients. Eureka Server is in itself a microservice to which all other microservices registers. Eureka Clients are the independent microservices. We will see how to configure this in a microservice ecosystem.
-
-### `Don't forget to : Maven Update`
-## What Is Netflix Eureka?
-This is a tool provided by Netflix to provide a solution to the above problem. It consists of the Eureka Server and Eureka clients. Eureka Server is in itself a microservice to which all other microservices registers. Eureka Clients are the independent microservices. We will see how to configure this in a microservice ecosystem.
-
-### `Don't forget to : Maven Update`
 
 
