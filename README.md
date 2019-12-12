@@ -22,7 +22,7 @@
 ### You can find all of diagrams [HERE](conception/)
 
 
-## Configuration envirement :
+## Configuration environment :
 ### 1st STEP : Clone the project :
 ```console
 git clone https://github.com/cherchariwahb/Micro_service_Prooject.git
